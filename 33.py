@@ -1,3 +1,4 @@
+
 class area:
     def __init__(self,m1,m2):
         self.l=m1
@@ -15,4 +16,3 @@ if(s1>s2):
     print("area of rect1 is greater")
 else:
     print("area of rect2 is greater")
-        
